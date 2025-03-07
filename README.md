@@ -1,4 +1,4 @@
-# Fullstack Chat App
+# Quick Chat – Fullstack Chat App 
 
 This is a full-stack chat application that enables real-time messaging. The application consists of a backend (Node.js/Express) and a frontend (React). It is deployed and accessible at: [Live Demo](https://fullstack-chat-app-4fep.onrender.com).
 
