@@ -35,26 +35,26 @@ A real-time chat application enhanced with **AI-powered features**, including **
 - **MongoDB running locally or via MongoDB Atlas**  
 
 ### **Steps:**  
-  ```sh
-  # 1. Clone the repository
-  git clone https://github.com/YOUR_GITHUB_USERNAME/fullstack-chat-app.git
-  cd fullstack-chat-app
-  
-  # 2. Backend Setup
-  cd backend
-  npm install
-  cp .env.example .env  # Add your environment variables (JWT_SECRET, OPENAI_API_KEY, CLOUDINARY_KEYS, etc.)
-  npm start
-  
-  # 3. Frontend Setup
-  cd ../frontend
-  npm install
-  npm start
-  
-  # 4. Open the application in the browser
-  # Navigate to:
-  http://localhost:3000
+    ```sh
+    # 1. Clone the repository
+    git clone https://github.com/YOUR_GITHUB_USERNAME/fullstack-chat-app.git
+    cd fullstack-chat-app
+    
+    # 2. Backend Setup
+    cd backend
+    npm install
+    cp .env.example .env  # Add your environment variables (JWT_SECRET, OPENAI_API_KEY, CLOUDINARY_KEYS, etc.)
+    npm start
+    
+    # 3. Frontend Setup
+    cd ../frontend
+    npm install
+    npm start
+    
+    # 4. Open the application in the browser
+    # Navigate to:
+    http://localhost:3000
 
-## **Deployment**
+### **Deployment**
 Easily deploy on Render, Vercel, or any Node.js hosting platform.
  
