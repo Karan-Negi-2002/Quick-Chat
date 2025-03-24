@@ -1,4 +1,4 @@
-# **Quick Chat – AI-Powered Fullstack Chat App**  
+# **Quick Chat – AI-Powered Chat App**  
 
 A real-time chat application enhanced with **AI-powered features**, including **GPT-based smart replies** and **AI-generated images** via **DALL-E 3**.  
 
