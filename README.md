@@ -9,10 +9,10 @@ A complete realtime chat application built with the MERN stack, enhanced by Sock
 ✅ **MERN Stack** – Robust backend with MongoDB, Express, React, and Node.js.  
 ✅ **Realtime Messaging** – Instant chat functionality powered by Socket.io.  
 ✅ **Authentication & Authorization** – Secure user sessions with JWT.  
-✅ **Responsive UI** – Built with TailwindCSS and Daisy UI for modern, responsive design. 
-✅ **Global State Management** – Efficient state management using Zustand. 
-✅ **Error Handling** – Comprehensive error management on both server and client sides.
-✅ **Deployment Ready** – Easily deploy your app on popular hosting platforms for free!
+✅ **Responsive UI** – Built with TailwindCSS and Daisy UI for modern, responsive design.  
+✅ **Global State Management** – Efficient state management using Zustand.  
+✅ **Error Handling** – Comprehensive error management on both server and client sides.  
+✅ **Deployment Ready** – Easily deploy your app on popular hosting platforms for free!  
 
 ## **Tech Stack** 
 
